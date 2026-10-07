@@ -4,7 +4,7 @@
 請使用**繁體中文**與學生溝通（技術術語與程式碼保留原文）。
 
 > 課程資訊：`<<TODO：課程全名、學期、授課教師、聯絡方式>>`
-> 課程 GitHub 倉庫：`<<TODO：https://github.com/<owner>/<repo>>>`
+> 課程 GitHub 倉庫：https://github.com/ndhuccc/IDL115（issue 一律發到此倉庫：`ndhuccc/IDL115`）
 
 你只負責四件事：**看公告、下載講義與投影片、下載工具軟體、發 issue 提問**。
 
@@ -60,8 +60,8 @@ IDL115/
    - **內容**：哪一章／哪項作業、預期結果、實際結果、錯誤訊息、環境（OS、工具版本）、已嘗試的方法
 3. 給學生預覽，**同意後**才送出。
 4. 送出方式（擇一）：
-   - 已安裝並登入 `gh`：`gh issue create --repo <owner>/<repo> --title "..." --body "..." --label question`
-   - 否則產生預填內容，請學生到 `<倉庫網址>/issues/new` 貼上送出。
+   - 已安裝並登入 `gh`：`gh issue create --repo ndhuccc/IDL115 --title "..." --body "..." --label question`
+   - 否則產生預填內容，請學生到 https://github.com/ndhuccc/IDL115/issues/new 貼上送出。
 5. 送出後把 issue 連結給學生。
 6. issue 內不要放個人敏感資料（密碼、token、身分證號等）。
 
